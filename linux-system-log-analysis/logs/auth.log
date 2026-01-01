@@ -1,0 +1,6 @@
+Jul 10 09:12:01 kali sshd[1024]: Failed password for invalid user admin from 192.168.1.50 port 54321 ssh2
+Jul 10 09:12:05 kali sshd[1024]: Failed password for invalid user admin from 192.168.1.50 port 54322 ssh2
+Jul 10 09:12:10 kali sshd[1024]: Failed password for invalid user admin from 192.168.1.50 port 54323 ssh2
+Jul 10 09:12:15 kali sshd[1024]: Failed password for invalid user admin from 192.168.1.50 port 54324 ssh2
+Jul 10 09:13:01 kali sshd[1050]: Accepted password for kali from 192.168.1.25 port 55210 ssh2
+Jul 10 09:14:33 kali sudo: kali : TTY=pts/0 ; COMMAND=/bin/nano-- No entries --
