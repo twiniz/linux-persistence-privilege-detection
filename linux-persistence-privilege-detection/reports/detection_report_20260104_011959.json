@@ -1,0 +1,49 @@
+{
+  "generated_at": "2026-01-04T01:19:58.494211Z",
+  "alerts": [
+    "[ALERT] New UID=0 user(s) detected: ['root']",
+    "[ALERT] New /etc/sudoers.d file(s): ['/etc/sudoers.d/README', '/etc/sudoers.d/kali-grant-root', '/etc/sudoers.d/ospd-openvas']",
+    "[ALERT] New enabled service entries detected (possible persistence): ['', '17 unit files listed.', 'ModemManager.service               enabled enabled', 'NetworkManager-dispatcher.service  enabled disabled', 'NetworkManager-wait-online.service enabled disabled', 'NetworkManager.service             enabled enabled', 'UNIT FILE                          STATE   PRESET', 'accounts-daemon.service            enabled enabled', 'console-setup.service              enabled enabled', 'cron.service                       enabled enabled'] ...",
+    "[ALERT] New cron file(s) in /etc/cron.d: ['/etc/cron.d/.placeholder', '/etc/cron.d/e2scrub_all', '/etc/cron.d/john', '/etc/cron.d/php', '/etc/cron.d/sysstat']",
+    "[ALERT] New cron file(s) in /etc/cron.daily: ['/etc/cron.daily/.placeholder', '/etc/cron.daily/apache2', '/etc/cron.daily/apt-compat', '/etc/cron.daily/dpkg', '/etc/cron.daily/logrotate', '/etc/cron.daily/man-db', '/etc/cron.daily/plocate', '/etc/cron.daily/sysstat']",
+    "[ALERT] New cron file(s) in /etc/cron.hourly: ['/etc/cron.hourly/.placeholder']",
+    "[ALERT] New cron file(s) in /etc/cron.weekly: ['/etc/cron.weekly/.placeholder', '/etc/cron.weekly/man-db']",
+    "[ALERT] New cron file(s) in /etc/cron.monthly: ['/etc/cron.monthly/.placeholder']"
+  ],
+  "diff": {
+    "uid0_added": [
+      "root"
+    ],
+    "suid_added": [],
+    "suid_removed": [],
+    "sudoers_d_added": [
+      "/etc/sudoers.d/README",
+      "/etc/sudoers.d/kali-grant-root",
+      "/etc/sudoers.d/ospd-openvas"
+    ],
+    "sudoers_d_removed": [],
+    "enabled_services_added": [
+      "",
+      "17 unit files listed.",
+      "ModemManager.service               enabled enabled",
+      "NetworkManager-dispatcher.service  enabled disabled",
+      "NetworkManager-wait-online.service enabled disabled",
+      "NetworkManager.service             enabled enabled",
+      "UNIT FILE                          STATE   PRESET",
+      "accounts-daemon.service            enabled enabled",
+      "console-setup.service              enabled enabled",
+      "cron.service                       enabled enabled",
+      "getty@.service                     enabled enabled",
+      "haveged.service                    enabled enabled",
+      "keyboard-setup.service             enabled enabled",
+      "lightdm.service                    enabled disabled",
+      "networking.service                 enabled enabled",
+      "regenerate-ssh-host-keys.service   enabled enabled",
+      "smartmontools.service              enabled enabled",
+      "systemd-pstore.service             enabled enabled",
+      "systemd-timesyncd.service          enabled enabled",
+      "virtualbox-guest-utils.service     enabled enabled"
+    ],
+    "enabled_services_removed": []
+  }
+}

@@ -1,0 +1,361 @@
+{
+    "generated_at": "2026-01-03T20:15:34.132427",
+    "users": [
+        {
+            "username": "root",
+            "uid": 0,
+            "shell": "/usr/bin/zsh"
+        },
+        {
+            "username": "daemon",
+            "uid": 1,
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "bin",
+            "uid": 2,
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "sys",
+            "uid": 3,
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "sync",
+            "uid": 4,
+            "shell": "/bin/sync"
+        },
+        {
+            "username": "games",
+            "uid": 5,
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "man",
+            "uid": 6,
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "lp",
+            "uid": 7,
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "mail",
+            "uid": 8,
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "news",
+            "uid": 9,
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "uucp",
+            "uid": 10,
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "proxy",
+            "uid": 13,
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "www-data",
+            "uid": 33,
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "backup",
+            "uid": 34,
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "list",
+            "uid": 38,
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "irc",
+            "uid": 39,
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "_apt",
+            "uid": 42,
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "nobody",
+            "uid": 65534,
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "systemd-network",
+            "uid": 998,
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "dhcpcd",
+            "uid": 100,
+            "shell": "/bin/false"
+        },
+        {
+            "username": "mysql",
+            "uid": 101,
+            "shell": "/bin/false"
+        },
+        {
+            "username": "tss",
+            "uid": 102,
+            "shell": "/bin/false"
+        },
+        {
+            "username": "strongswan",
+            "uid": 103,
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "systemd-timesync",
+            "uid": 992,
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "_gophish",
+            "uid": 104,
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "iodine",
+            "uid": 105,
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "messagebus",
+            "uid": 991,
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "tcpdump",
+            "uid": 106,
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "miredo",
+            "uid": 107,
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "_rpc",
+            "uid": 108,
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "redis",
+            "uid": 109,
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "mosquitto",
+            "uid": 110,
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "redsocks",
+            "uid": 111,
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "stunnel4",
+            "uid": 990,
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "sshd",
+            "uid": 989,
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "dnsmasq",
+            "uid": 999,
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "Debian-snmp",
+            "uid": 112,
+            "shell": "/bin/false"
+        },
+        {
+            "username": "sslh",
+            "uid": 113,
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "postgres",
+            "uid": 114,
+            "shell": "/bin/bash"
+        },
+        {
+            "username": "avahi",
+            "uid": 115,
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "speech-dispatcher",
+            "uid": 116,
+            "shell": "/bin/false"
+        },
+        {
+            "username": "_gvm",
+            "uid": 117,
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "usbmux",
+            "uid": 118,
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "cups-pk-helper",
+            "uid": 119,
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "nm-openvpn",
+            "uid": 120,
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "inetsim",
+            "uid": 121,
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "nm-openconnect",
+            "uid": 122,
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "geoclue",
+            "uid": 123,
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "lightdm",
+            "uid": 124,
+            "shell": "/bin/false"
+        },
+        {
+            "username": "statd",
+            "uid": 125,
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "saned",
+            "uid": 126,
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "polkitd",
+            "uid": 987,
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "rtkit",
+            "uid": 127,
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "colord",
+            "uid": 128,
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "twiniz",
+            "uid": 1000,
+            "shell": "/usr/bin/zsh"
+        },
+        {
+            "username": "pcscd",
+            "uid": 984,
+            "shell": "/usr/sbin/nologin"
+        },
+        {
+            "username": "pipewire",
+            "uid": 983,
+            "shell": "/usr/sbin/nologin"
+        }
+    ],
+    "uid_0_accounts": [
+        "root"
+    ],
+    "sudoers": [
+        "Defaults\tenv_reset",
+        "Defaults\tmail_badpass",
+        "Defaults\tsecure_path=\"/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin\"",
+        "",
+        "Defaults\tuse_pty",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "root\tALL=(ALL:ALL) ALL",
+        "",
+        "%sudo\tALL=(ALL:ALL) ALL",
+        "",
+        "",
+        "@includedir /etc/sudoers.d"
+    ],
+    "cron_jobs": [
+        "/etc/cron.d/e2scrub_all",
+        "/etc/cron.d/john",
+        "/etc/cron.d/php",
+        "/etc/cron.d/sysstat",
+        "/etc/cron.daily/apache2",
+        "/etc/cron.daily/apt-compat",
+        "/etc/cron.daily/dpkg",
+        "/etc/cron.daily/logrotate",
+        "/etc/cron.daily/man-db",
+        "/etc/cron.daily/plocate",
+        "/etc/cron.daily/sysstat",
+        "/etc/cron.weekly/man-db"
+    ],
+    "suid_files": [
+        "/usr/bin/chfn",
+        "/usr/bin/chsh",
+        "/usr/bin/fusermount3",
+        "/usr/bin/gpasswd",
+        "/usr/bin/kismet_cap_hak5_wifi_coconut",
+        "/usr/bin/kismet_cap_linux_bluetooth",
+        "/usr/bin/kismet_cap_linux_wifi",
+        "/usr/bin/kismet_cap_nrf_51822",
+        "/usr/bin/kismet_cap_nrf_52840",
+        "/usr/bin/kismet_cap_nrf_mousejack",
+        "/usr/bin/kismet_cap_nxp_kw41z",
+        "/usr/bin/kismet_cap_rz_killerbee",
+        "/usr/bin/kismet_cap_ti_cc_2531",
+        "/usr/bin/kismet_cap_ti_cc_2540",
+        "/usr/bin/kismet_cap_ubertooth_one",
+        "/usr/bin/mount",
+        "/usr/bin/newgrp",
+        "/usr/bin/ntfs-3g",
+        "/usr/bin/passwd",
+        "/usr/bin/pkexec",
+        "/usr/bin/rsh-redone-rlogin",
+        "/usr/bin/rsh-redone-rsh",
+        "/usr/bin/su",
+        "/usr/bin/sudo",
+        "/usr/bin/umount",
+        "/usr/sbin/mount.cifs",
+        "/usr/sbin/mount.nfs",
+        "/usr/sbin/pppd"
+    ]
+}
